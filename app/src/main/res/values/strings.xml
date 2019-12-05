@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Football Match</string>
+    <string name="uefa_champions_league">Uefa Champions League</string>
+
+    <string-array name="league_id">
+        <item>4480</item>
+        <item>4481</item>
+        <item>4335</item>
+        <item>4328</item>
+        <item>4332</item>
+    </string-array>
+
+    <string-array name="league_name">
+        <item>Uefa Champions League</item>
+        <item>Uefa Europa League</item>
+        <item>La Liga</item>
+        <item>English Premier League</item>
+        <item>Serie A</item>
+    </string-array>
+
+    <array name="league_image">
+        <item>@drawable/ucl</item>
+        <item>@drawable/uel</item>
+        <item>@drawable/laliga</item>
+        <item>@drawable/barclays</item>
+        <item>@drawable/seriea</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
